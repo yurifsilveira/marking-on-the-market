@@ -10,7 +10,7 @@ from typing import List
 from os import environ
 from logging import info
 
-from db.models.usuario import Transacao
+from .api.db.models.usuario import Transacao
 from app.graph.fabric import rolling_wind_to_title_treasure
 
 class UserTitles(BaseModel):
