@@ -21,3 +21,6 @@ git clone https://github.com/yurifsilveira/marking-on-the-market.git
 poetry install
 
 ```
+## Status
+
+In progress...
