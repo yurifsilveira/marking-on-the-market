@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "pymarkingmarket"
+version = "0.1.0"
+description = "this project have as objective managed the market marking"
+authors = ["yuri.fernandes <yurevascopdf@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+redbird = "^0.7.0"
+rocketry = "^2.5.1"
+pandas = "^2.2.3"
+pydantic = "1.10.10"
+requests = "^2.32.3"
+matplotlib = "^3.10.1"
+numpy = "^2.2.5"
+google-api-python-client = "^2.168.0"
+google-auth-oauthlib = "^1.2.2"
+python-dotenv = "^1.1.0"
+sqlalchemy = "2.0.37"
+openpyxl = "^3.1.5"
+xlrd = "^2.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
