@@ -19,15 +19,3 @@ def create_db_and_tables():
 def get_session():
     with Session(engine) as session:
         yield session
-
-SessionDep = Annotated[Session, Depends(get_session)]
-
-router = APIRouter(
-    prefix="/database",
-    tags=["database"],
-    responses={404: {"description": "Not found"}},
-)
-
-@router.on_event("startup")
-def on_startup():
-    create_db_and_tables()
