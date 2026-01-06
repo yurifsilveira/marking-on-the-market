@@ -1,0 +1,11 @@
+2025-11-27 19:19:56 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-27 19:20:00 - TesouroDireto - DEBUG - Instanciado objeto Treasury_Direct_Title com URL base: https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/sistd/{}/LTN_{}.xls
+2025-11-27 19:20:00 - TesouroDireto - DEBUG - Classe LTN inicializada com URL base https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/sistd/{}/LTN_{}.xls
+2025-11-27 19:20:00 - TesouroDireto - INFO - Iniciando extração do relatório LTN-2025
+2025-11-27 19:20:01 - TesouroDireto - DEBUG - DataFrame concatenado com todas as abas processadas
+2025-11-27 19:20:01 - TesouroDireto - INFO - Relatório LTN-2025 concluído com 1101 registros
+2025-11-27 19:20:01 - TesouroDireto - DEBUG - Instanciado objeto Treasury_Direct_Title com URL base: https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/sistd/{}/NTN-B_Principal_{}.xls
+2025-11-27 19:20:01 - TesouroDireto - DEBUG - Classe NTN inicializada com URL base https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/sistd/{}/NTN-B_Principal_{}.xls
+2025-11-27 19:20:01 - TesouroDireto - INFO - Iniciando extração do relatório NTN-2025
+2025-11-27 19:20:02 - TesouroDireto - DEBUG - DataFrame concatenado com todas as abas processadas
+2025-11-27 19:20:02 - TesouroDireto - INFO - Relatório NTN-2025 concluído com 1101 registros
