@@ -1,7 +1,11 @@
 from sqlmodel import create_engine
 from sqlmodel import Session
+from os import environ
+from dotenv import load_dotenv
+load_dotenv()
+
 class Settings():
-    DATABASE_URL: str = "sqlite:///./database.db"  # ou PostgreSQL: postgresql+psycopg://user:pass@localhost/dbname
+    DATABASE_URL: str = environ["URL_BANK"] # ou PostgreSQL: postgresql+psycopg://user:pass@localhost/dbname
 
     class Config:
         env_file = ".env"
