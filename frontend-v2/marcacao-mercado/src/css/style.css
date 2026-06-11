@@ -1,0 +1,86 @@
+header {
+    max-width: 1126px;
+    margin: 0 auto;
+}
+#titulo-pagina {
+    font-size:35px;
+    font-family: 'Roboto Serif';
+    color:black;
+}
+#btn-login{
+    width: 118px;
+}
+#about-section-marking-market{
+    height: 400px;
+
+    background: url('../assets/fundo-renda-fixa.jpg')
+      no-repeat center center / cover;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: white;
+    text-align: center;
+}
+#about-section-marking-market > #about-content{
+    padding: 8%;
+}
+#about-content > h1 {
+    font-size: 60px;
+    font-family: 'Segoe UI';
+    color:white;
+}
+.btn-outline-green{
+    width: 185px;
+    height: 50px;
+    border: 1px solid #A6A6A6;
+    background-color: transparent;
+    color: #74DE54;
+    font-size: 18px;
+    font-family: 'Segoe UI';
+    cursor: pointer;
+    border-radius: 25px;
+}
+.btn-green{
+    width: 185px;
+    height: 50px;
+    border: 1px solid #74DE54;
+    background-color: #74DE54;
+    color: white;
+    font-size: 16px;
+    font-family: 'Segoe UI';
+    cursor: pointer;
+    border-radius: 25px;
+    
+}
+#section-title{
+    font-weight: bold;
+    font-size: 25px;
+    font-family:'Segoe UI';
+}
+#section-description{
+    color:#6D6D6D;
+    font-size: 16px;
+    font-family:'Segoe UI';
+    font-weight: 600;
+}
+.icone{
+    width: 56px;
+    height: 56px;
+    border-radius: 0;
+    border: 1px solid #A6A6A6;
+    margin: 12px 2px 12px 12px;
+}
+.title{
+    font-size: 18px;
+    font-family: 'Segoe UI';
+    color: black;
+    font-weight: 700;
+}
+.subtitle{
+    font-size: 14px;
+    font-family: 'Segoe UI';
+    color: #6D6D6D;
+    font-weight: 600;
+}
