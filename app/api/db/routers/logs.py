@@ -3,7 +3,7 @@ from typing import Annotated, Optional
 from datetime import date, datetime
 from sqlmodel import select
 from ..models.tesouro import LOGS
-from .config import SessionDep
+from ..config import SessionDep
 
 router = APIRouter(
     prefix="/titulo-tesouro",

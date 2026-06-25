@@ -1,0 +1,72 @@
+2025-11-09 22:13:18 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:13:23 - TesouroDireto - DEBUG - Instanciado objeto Treasury_Direct_Title com URL base: https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/sistd/{}/LTN_{}.xls
+2025-11-09 22:13:23 - TesouroDireto - DEBUG - Classe LTN inicializada com URL base https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/sistd/{}/LTN_{}.xls
+2025-11-09 22:13:23 - TesouroDireto - INFO - Iniciando extração do relatório LTN-2025
+2025-11-09 22:13:25 - TesouroDireto - DEBUG - DataFrame concatenado com todas as abas processadas
+2025-11-09 22:13:26 - TesouroDireto - INFO - Relatório LTN-2025 concluído com 1036 registros
+2025-11-09 22:13:26 - TesouroDireto - DEBUG - Instanciado objeto Treasury_Direct_Title com URL base: https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/sistd/{}/NTN-B_Principal_{}.xls
+2025-11-09 22:13:26 - TesouroDireto - DEBUG - Classe NTN inicializada com URL base https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/sistd/{}/NTN-B_Principal_{}.xls
+2025-11-09 22:13:26 - TesouroDireto - INFO - Iniciando extração do relatório NTN-2025
+2025-11-09 22:13:30 - TesouroDireto - DEBUG - DataFrame concatenado com todas as abas processadas
+2025-11-09 22:13:30 - TesouroDireto - INFO - Relatório NTN-2025 concluído com 1036 registros
+2025-11-09 22:14:37 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:14:40 - TesouroDireto - DEBUG - Instanciado objeto Treasury_Direct_Title com URL base: https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/sistd/{}/LTN_{}.xls
+2025-11-09 22:14:40 - TesouroDireto - DEBUG - Classe LTN inicializada com URL base https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/sistd/{}/LTN_{}.xls
+2025-11-09 22:14:40 - TesouroDireto - INFO - Iniciando extração do relatório LTN-2025
+2025-11-09 22:14:41 - TesouroDireto - DEBUG - DataFrame concatenado com todas as abas processadas
+2025-11-09 22:14:41 - TesouroDireto - INFO - Relatório LTN-2025 concluído com 1036 registros
+2025-11-09 22:14:41 - TesouroDireto - DEBUG - Instanciado objeto Treasury_Direct_Title com URL base: https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/sistd/{}/NTN-B_Principal_{}.xls
+2025-11-09 22:14:41 - TesouroDireto - DEBUG - Classe NTN inicializada com URL base https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/sistd/{}/NTN-B_Principal_{}.xls
+2025-11-09 22:14:41 - TesouroDireto - INFO - Iniciando extração do relatório NTN-2025
+2025-11-09 22:14:42 - TesouroDireto - DEBUG - DataFrame concatenado com todas as abas processadas
+2025-11-09 22:14:42 - TesouroDireto - INFO - Relatório NTN-2025 concluído com 1036 registros
+2025-11-09 22:14:51 - TesouroDireto - DEBUG - Instanciado objeto Treasury_Direct_Title com URL base: https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/sistd/{}/LTN_{}.xls
+2025-11-09 22:14:51 - TesouroDireto - DEBUG - Classe LTN inicializada com URL base https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/sistd/{}/LTN_{}.xls
+2025-11-09 22:14:51 - TesouroDireto - INFO - Iniciando extração do relatório LTN-2025
+2025-11-09 22:14:52 - TesouroDireto - DEBUG - DataFrame concatenado com todas as abas processadas
+2025-11-09 22:14:52 - TesouroDireto - INFO - Relatório LTN-2025 concluído com 1036 registros
+2025-11-09 22:14:52 - TesouroDireto - DEBUG - Instanciado objeto Treasury_Direct_Title com URL base: https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/sistd/{}/NTN-B_Principal_{}.xls
+2025-11-09 22:14:52 - TesouroDireto - DEBUG - Classe NTN inicializada com URL base https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/sistd/{}/NTN-B_Principal_{}.xls
+2025-11-09 22:14:52 - TesouroDireto - INFO - Iniciando extração do relatório NTN-2025
+2025-11-09 22:14:53 - TesouroDireto - DEBUG - DataFrame concatenado com todas as abas processadas
+2025-11-09 22:14:53 - TesouroDireto - INFO - Relatório NTN-2025 concluído com 1036 registros
+2025-11-09 22:16:45 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:16:58 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:18:52 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:18:57 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:18:57 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:18:57 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:18:57 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:18:57 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:18:57 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:18:57 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:18:57 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:19:01 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:19:01 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:19:04 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:19:07 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:19:11 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:19:43 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:19:48 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:19:48 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:19:48 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:19:48 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:19:48 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:19:48 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:19:48 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:19:48 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:20:24 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:20:48 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:22:44 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:22:51 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:22:51 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:22:51 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:22:51 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:22:51 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:22:51 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:22:51 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:22:51 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:22:55 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:22:58 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:23:01 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
+2025-11-09 22:23:22 - TesouroDireto - INFO - 🔧 Logging configurado via logging.config (rotação diária ativa)
