@@ -54,6 +54,18 @@ header {
     border-radius: 25px;
     
 }
+.btn-red{
+    width: 185px;
+    height: 50px;
+    border: 1px solid #E53415;
+    background-color: #E53415;
+    color: white;
+    font-size: 16px;
+    font-family: 'Segoe UI';
+    cursor: pointer;
+    border-radius: 25px;
+    
+}
 #section-title{
     font-weight: bold;
     font-size: 25px;
