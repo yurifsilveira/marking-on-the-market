@@ -8,9 +8,6 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "3.12.10"
 
-redbird = "^0.7.0"
-rocketry = "^2.5.1"
-
 pandas = "^2.2.3"
 numpy = "^2.2.5"
 matplotlib = "^3.10.1"
